@@ -2,4 +2,4 @@
 
 ## editing the readme file
 
-signsa
+sign gpg
