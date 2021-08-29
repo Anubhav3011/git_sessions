@@ -2,4 +2,4 @@
 
 ## editing the readme file
 
-sign gpg
+sign gpg in local
